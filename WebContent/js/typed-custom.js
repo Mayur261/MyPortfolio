@@ -1,0 +1,1 @@
+jQuery(document).ready((function(){$((function(){$(".typed").typed({stringsElement:$(".typed-strings"),typeSpeed:200,backDelay:1500,loop:!0,contentType:"html",loopCount:!1,callback:function(){},resetCallback:function(){newTyped()}})}))}));
